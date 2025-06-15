@@ -23,7 +23,7 @@ const Container = styled.div`
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
-  font-size: 18px;
+  font-size: 24px;
   color: #333;
   line-height: 1.6;
   overflow-x: hidden;
