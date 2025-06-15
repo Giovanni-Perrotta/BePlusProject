@@ -62,7 +62,7 @@ const Section = styled.section`
 `;
 
 const Hero = styled.section`
-  background-color: #fff3f0;
+  background: linear-gradient(to bottom, #e5f0fb, #ffffff);
   padding: 3rem clamp(1rem, 5vw, 4rem);
   text-align: center;
   border-radius: 10px;
