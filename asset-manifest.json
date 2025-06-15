@@ -1,9 +1,9 @@
 {
   "files": {
     "main.css": "/JaqueDiniz/static/css/main.d76925f2.css",
-    "main.js": "/JaqueDiniz/static/js/main.374c6283.js",
+    "main.js": "/JaqueDiniz/static/js/main.59b3d30a.js",
     "static/js/453.7b5c1870.chunk.js": "/JaqueDiniz/static/js/453.7b5c1870.chunk.js",
-    "static/media/fundo.png": "/JaqueDiniz/static/media/fundo.154211ef1f1e8a371e78.png",
+    "static/media/fundo.png": "/JaqueDiniz/static/media/fundo.463f0d5265a4eee3b9c4.png",
     "static/media/bradesco.svg": "/JaqueDiniz/static/media/bradesco.55a6207ce049c2afa2193aa3112e47a5.svg",
     "static/media/omint.svg": "/JaqueDiniz/static/media/omint.a76ac95280e0cdd037cc2dab9fc2dedf.svg",
     "static/media/amil.svg": "/JaqueDiniz/static/media/amil.03da1cc8f2372e1a72f82b26d9db12bd.svg",
@@ -18,11 +18,11 @@
     "static/media/porto.svg": "/JaqueDiniz/static/media/porto.eff14a741981aeea489711e6db0682a1.svg",
     "index.html": "/JaqueDiniz/index.html",
     "main.d76925f2.css.map": "/JaqueDiniz/static/css/main.d76925f2.css.map",
-    "main.374c6283.js.map": "/JaqueDiniz/static/js/main.374c6283.js.map",
+    "main.59b3d30a.js.map": "/JaqueDiniz/static/js/main.59b3d30a.js.map",
     "453.7b5c1870.chunk.js.map": "/JaqueDiniz/static/js/453.7b5c1870.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d76925f2.css",
-    "static/js/main.374c6283.js"
+    "static/js/main.59b3d30a.js"
   ]
 }
