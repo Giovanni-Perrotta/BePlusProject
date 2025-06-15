@@ -1,8 +1,8 @@
 {
   "name": "beplusproject",
   "version": "0.1.0",
-  "homepage": "https://Giovanni-Perrotta.github.io/beplusproject",
   "private": true,
+  "homepage": "https://Giovanni-Perrotta.github.io/beplusproject",
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
@@ -21,7 +21,9 @@
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
-
+  },
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
   },
   "eslintConfig": {
     "extends": [
