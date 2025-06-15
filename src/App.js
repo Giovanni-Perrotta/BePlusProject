@@ -43,8 +43,10 @@ const Header = styled.header`
 `;
 
 const LogoImg = styled.img`
-  width: 200px;
+  width: 250px;
 `;
+
+
 
 // Seções do site com espaçamento adequado
 const Section = styled.section`
@@ -58,6 +60,29 @@ const Section = styled.section`
   max-width: 960px;
   margin-top: 0px;
 `;
+
+const Hero = styled.section`
+  background-color: #fff3f0;
+  padding: 3rem clamp(1rem, 5vw, 4rem);
+  text-align: center;
+  border-radius: 10px;
+  margin: 2rem auto 0;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+  max-width: 960px;
+`;
+
+const HeroTitle = styled.h1`
+  font-size: 2rem;
+  color: #b62020;
+  margin-bottom: 1rem;
+`;
+
+const HeroSubtitle = styled.p`
+  font-size: 1.1rem;
+  color: #333;
+  margin-bottom: 0;
+`;
+
 
 // Botão de CTA
 const CTAButton = styled.a`
@@ -123,7 +148,7 @@ const Card = styled.div`
 
 // Imagem de logo dos convênios
 const ConvenioLogo = styled.img`
-  max-width: 80px;
+  max-width: 100px;
   height: auto;
 `;
 
@@ -172,6 +197,12 @@ function App() {
       <Header>
         <LogoImg src={Logo} alt="Logo JD" />
       </Header>
+
+      <Hero>
+        <HeroTitle>Seu convênio médico não cobre o que você realmente precisa?</HeroTitle>
+        <HeroSubtitle>Já foi a um hospital ou tentou fazer um exame e descobriu que não tinha cobertura?</HeroSubtitle>
+        <HeroSubtitle>Você não está sozinho. Nós temos a solução para você.</HeroSubtitle>
+      </Hero>
 
       <Section>
         <Title>Reduza os custos do seu plano de saúde sem perder qualidade</Title>
