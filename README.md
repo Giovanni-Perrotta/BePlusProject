@@ -1,10 +1,10 @@
-# 💼 BePlusProject
+# 💼 JaqueDiniz
 
 Landing Page desenvolvida com foco na **captação de leads** e redirecionamento para o **WhatsApp**, com o objetivo de ajudar empresas e pessoas físicas a **reduzirem seus custos com planos de saúde** sem abrir mão da qualidade.
 
 ## 📌 Sobre o Projeto
 
-O **BePlusProject** tem como missão **economizar no plano de saúde do cliente** através de uma análise personalizada. Avaliamos o plano atual, o valor pago e buscamos alternativas equivalentes ou melhores por um custo menor.
+O projeto **JaqueDiniz** tem como missão **economizar no plano de saúde do cliente** através de uma análise personalizada. Avaliamos o plano atual, o valor pago e buscamos alternativas equivalentes ou melhores por um custo menor.
 
 > 💬 *"Você acha que está pagando caro demais no seu convênio? Já teve exames negados mesmo pagando um valor alto? Nós temos a solução para isso!"*
 
@@ -39,7 +39,7 @@ Não há um design pronto (ex: Figma). A construção visual será feita com bas
 
 ```bash
 # Clone o repositório
-git clone https://github.com/seu-usuario/beplusproject.git
+git clone https://github.com/seu-usuario/JaqueDiniz.git
 cd beplusproject
 
 # Instale as dependências
